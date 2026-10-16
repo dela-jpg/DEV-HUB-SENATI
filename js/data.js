@@ -24,7 +24,7 @@ const RESOURCES = [
 */
 const TEAM = [
   {
-    name: "Integrante 1 · Nombre Apellido",
+    name: "Integrante 1 · Johan Conovilca",
     avatar: "🧑‍💼",
     role: "Coordinador y estructura HTML",
     tasks: ["Estructura de index.html", "Menú de navegación y sección de inicio", "Sección de equipo", "Revisión y merge de Pull Requests"]
