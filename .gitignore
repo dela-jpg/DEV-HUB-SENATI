@@ -1,0 +1,14 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+
+# Dependencias y logs
+node_modules/
+*.log
+
+# Secretos (nunca subir claves)
+.env
